@@ -1,10 +1,10 @@
 # CI0137-homework-01
 
-Tarea #1 del curso de Desarrollo de Aplicaciones Web (CI-0137). 
+Assignment #1 of the Web Application Development course (CI-0137).
 
-Preparación del entorno de desarrollo para front-end.
+Preparation of the front-end development environment.
 
-Elaborado por David Xie Li (B88682).
+Elaborated by David Xie Li (B88682).
 
 # Getting Started with Create React App
 
